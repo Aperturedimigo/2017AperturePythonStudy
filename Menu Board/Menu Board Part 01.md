@@ -2,18 +2,18 @@
 이 프로젝트는 음식점의 메뉴판을 만들기 위한 프로젝트이다.
 Part1에서는 기본적인 객체 생성을 활용하여 식당을 만들 예정이다.
 
-- 식당의 생성을 위한 'Restaurant' 클래스를 생성한다.
+- 식당의 생성을 위한 `Restaurant` 클래스를 생성한다.
   -다음의 변수들을 가진다
-    -'name' : 식당이름
-    -'address' : 식당주소
-    -'business' : 업종
-    -'phone' : 전화번호
-    -'grade' : 평점
+    -`name` : 식당이름
+    -`address` : 식당주소
+    -`business` : 업종
+    -`phone` : 전화번호
+    -`grade` : 평점
   -다음의 함수를 가진다.
-    -'Introduce()' : 식당의 정보를 출력하는 함수
+    -`Introduce()` : 식당의 정보를 출력하는 함수
 
 ## 실행결과
-'''
-'name'식당은 'business'를 하는 식당인데 'address'에 위치해있고 평점은 'grade'입니다.
-식당의 전화번호는 'phone'입니다. 
-'''
+```
+`name`식당은 `business`를 하는 식당인데 `address`에 위치해있고 평점은 `grade`입니다.
+식당의 전화번호는 'phone'입니다.
+```
