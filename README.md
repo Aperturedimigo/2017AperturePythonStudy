@@ -5,3 +5,4 @@
 - [문제](https://github.com/Aperturedimigo/PythonPractice/blob/master/Roll%20Book/Roll%20Book%20Part%2001.md)
 ## 2. 메뉴판 만들기 (Menu Board)
 ### Part1 - 가게 만들기
+- [문제](https://github.com/Aperturedimigo/PythonPractice/blob/master/Menu%20Board/Menu%20Board%20Part%2001.md)
